@@ -36,8 +36,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/ErickSilverio00/ErickSilverio00/output/snake.svg" alt="Snake animation" />
 
 ###
